@@ -1,7 +1,7 @@
 # nextBank-Theme
  This is a sample Virtual Bank theme with using Bootstrap.
  
- Available on: https://themes.1998.design
+ More Themes Available on: https://themes.1998.design
  
  ![Preview](https://raw.githubusercontent.com/1998code/nextBank-Theme/master/P1.png)
  ![Preview](https://raw.githubusercontent.com/1998code/nextBank-Theme/master/P2.png)
